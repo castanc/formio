@@ -15,3 +15,9 @@ npm i @angular/elements
 working demo
 https://formio.github.io/angular-demo/#/
 
+working form.io angular demo:
+C:\Users\calfredo001\DragonSlayer\formiodemo
+
+
+workin .net core solution
+C:\MyWorks\PwcBaseApp
