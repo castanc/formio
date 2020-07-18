@@ -11,3 +11,7 @@ npm i
 npm install 
 npm install --save angular-formio
 npm i @angular/elements
+
+working demo
+https://formio.github.io/angular-demo/#/
+
